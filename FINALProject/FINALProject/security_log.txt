@@ -1,0 +1,55 @@
+Patient: 1 login was not successful
+Patient: 1 login was not successful
+Patient: 1 login successful
+Patient with ID: 1 login successful
+Admin with ID: 1 login failed
+Admin with ID: 1 login failed
+Admin with ID: 1 login failed
+Admin with ID: 2 login failed
+Patient with ID: 1 login successful
+Admin with ID: 1 login failed
+Admin with ID: 1 login failed
+Admin with ID: 1 login failed
+Admin with ID: 1 login failed
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Admin with ID: 1 login successful
+Patient with ID: 1 login was not successful
+Patient with ID: 1 login was not successful
+Admin with ID: 1 login successful
+Patient with ID: 1 login was not successful
+Patient with ID: 1 login was not successful
+Patient with ID: 1 login was not successful
+Admin with ID: 1 login successful
+Patient with ID: 1 login successful
+Admin with ID: 1 login failed
+Doctor 1 login successful
+Patient with ID: 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Doctor 1 login successful
+Admin with ID: 1 login successful
+Patient with ID: 1 login was not successful
+Patient with ID: 1 login successful
