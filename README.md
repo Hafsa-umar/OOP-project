@@ -4,3 +4,5 @@ see patient medical history and write prescriptions for doctor
 It also has login system that enable the user to enter their id and password that is stored in files the password and ID should match accordingly it also stores data that which appointment is boked and cacelled and which is pending and completed
 
 The system is based on c++ using OOP concepts and data is handled using filehandling concepts
+IT IS SFML BASED
+
