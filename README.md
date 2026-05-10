@@ -1,0 +1,4 @@
+This Projet is about the mangement sytem of HEALING HORIZON HOSPITAL that allows the user type such as doctor patient or 
+admin to login and go to their respective menu such as add docto remove doctor et for admin and book appointment cancel appointment pay bill for patient and see appointment for today 
+see patient medical history and write prescriptions for doctor
+It also has login system that enable the user to enter their id and password that is stored in files the password and ID should match accordingly it also stores data that which appointment is boked and cacelled and which is pending and completed
